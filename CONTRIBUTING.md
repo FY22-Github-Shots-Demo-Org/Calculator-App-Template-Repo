@@ -90,6 +90,7 @@ Often, multiple iterations will be needed to responding to feedback from reviewe
 [past pull requests](https://github.com/Microsoft/calculator/pulls?q=is%3Apr+is%3Aclosed) to see
 what the experience might be like.
 
+
 ## Contributor License Agreement
 Before we can review and accept a pull request from you, you'll need to sign a Contributor License
 Agreement (CLA). The CLA ensures that the community is free to use your contributions. More
