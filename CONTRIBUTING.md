@@ -2,6 +2,8 @@
 The Calculator team encourages community feedback and contributions. Thank you for your interest in
 making Calculator better! There are several ways you can get involved.
 
+Please make sure to follow the guidelines
+
 ## Reporting issues and suggesting new features
 If Calculator is not working properly, please file a report in the 
 [Feedback Hub](https://insider.windows.com/en-us/fb/?contextid=130&newFeedback=True).
