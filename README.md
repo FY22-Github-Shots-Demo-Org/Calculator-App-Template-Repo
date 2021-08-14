@@ -20,7 +20,7 @@ Calculator ships regularly with new features and bug fixes. You can get the late
   arithmetic operations (addition, subtraction, multiplication, division) so that calculations
   never lose precision.
 
-## Getting started
+## Getting started Links
 Prerequisites:
 - Your computer must be running Windows 10, version 1803 or newer.
 - Install the latest version of [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads) (the free community edition is sufficient).
